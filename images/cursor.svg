@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288.37 338.02">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #303030;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-7 {
+        stroke: #303030;
+      }
+
+      .cls-1, .cls-2, .cls-5, .cls-6, .cls-7 {
+        stroke-linejoin: round;
+      }
+
+      .cls-1, .cls-3, .cls-5, .cls-7 {
+        stroke-width: 5.6px;
+      }
+
+      .cls-2 {
+        fill: #fcf9f0;
+        stroke-width: 5.6px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 3.2;
+      }
+
+      .cls-4 {
+        stroke-width: 5.6px;
+      }
+
+      .cls-5 {
+        fill: #bd080f;
+      }
+
+      .cls-6 {
+        fill: #ff8080;
+        stroke: #000;
+        stroke-width: 5.42px;
+      }
+
+      .cls-7 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="path7522" class="cls-6" d="M267,322.46c15.41-12.74,22.66-29.75,16.43-38.55l.06-.05-.51-.62-25.04-30.32-57.51,47.49,25.04,30.32.51.62.04-.03c7.47,7.78,25.55,3.87,40.98-8.86h0Z"/>
+  <g id="g7654">
+    <rect id="rect7527" class="cls-7" x="167.27" y="226.99" width="88.06" height="56.06" transform="translate(-114.01 192.93) rotate(-39.55)"/>
+    <path id="path7529" class="cls-4" d="M236.87,233.9l-51.14,42.23"/>
+    <path id="path7529-8" class="cls-4" d="M245.8,244.71l-51.14,42.23"/>
+    <path id="path7529-7" class="cls-4" d="M227.95,223.09l-51.14,42.23"/>
+  </g>
+  <rect id="rect7596" class="cls-5" x="81.58" y="25.77" width="74.4" height="234.4" transform="translate(-63.85 108.36) rotate(-39.55)"/>
+  <g id="g7637">
+    <path id="path7598-0" class="cls-3" d="M202.95,225.42L53.74,44.74"/>
+    <path id="path7598-2" class="cls-3" d="M183.82,241.21L34.62,60.53"/>
+  </g>
+  <path id="path7668" class="cls-2" d="M15.42,76.23l28.59-23.8,28.59-23.8-34.9-12.87L2.8,2.91l6.31,36.66,6.31,36.66Z"/>
+  <path id="path7668-7" class="cls-1" d="M6.72,24.8l8.58-7.14,8.58-7.14-10.47-3.86L2.93,2.8l1.89,11,1.89,11Z"/>
+</svg>
